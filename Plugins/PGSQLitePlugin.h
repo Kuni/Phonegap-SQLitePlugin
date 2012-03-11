@@ -14,7 +14,7 @@
 
 #ifdef PHONEGAP_FRAMEWORK
     #import <PhoneGap/PGPlugin.h>
-    #import <PhoneGap/JSON.h>
+    #import <PhoneGap/JSONKit.h>
     #import <PhoneGap/PhoneGapDelegate.h>
     #import <PhoneGap/File.h>
 #else
